@@ -1,0 +1,17 @@
+.panda-catagory img{
+    height: 80px;
+}
+.panda-catagory h1{
+    color:white;
+}
+.panda-card{
+    border:0;
+    border-radius: 10px;
+}
+.panda-footer{
+    border:0;
+    background-color: white;
+}
+.subscribe{
+    height: 350px;
+}
